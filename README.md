@@ -14,6 +14,16 @@ Atuo principalmente com **HTML**, **CSS**, **JavaScript**, **Next.js**, **React*
   Projeto colaborativo feito em parceria com colegas da faculdade. Atualmente estou aplicando novos conhecimentos e aprimorando ainda mais este projeto.
 
 ---
+ https://github-readme-stats.vercel.app/api?fabimarinho=anuraghazra&theme=midnight-purple&show_icons=true 
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ </div>
 
 ## 💡 Sobre mim
 
