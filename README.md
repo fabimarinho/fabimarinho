@@ -1,4 +1,4 @@
-# Olá, eu sou a Fabimarinho! 👋
+# Oie, eu sou a Fabiane Marinho! 👋
 
 Sou **Desenvolvedora Front-end** e estou finalizando a faculdade de **Ciência da Computação**.  
 Atuo principalmente com **HTML**, **CSS**, **JavaScript**, **Next.js**, **React** e também sei me virar com **Python**.
