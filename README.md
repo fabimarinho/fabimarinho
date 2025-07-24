@@ -14,7 +14,7 @@ Atuo principalmente com **HTML**, **CSS**, **JavaScript**, **Next.js**, **React*
   Projeto colaborativo feito em parceria com colegas da faculdade. Atualmente estou aplicando novos conhecimentos e aprimorando ainda mais este projeto.
 
 ---
- https://github-readme-stats.vercel.app/api?fabimarinho=anuraghazra&theme=midnight-purple&show_icons=true 
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
